@@ -3,4 +3,4 @@ print("Hello Wolrd")
 def chai(n):
     print(n)
 
-chai("Chai fir se")
+chai("This code can import in chai.py file")
