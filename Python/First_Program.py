@@ -23,3 +23,5 @@ print(type(email))
 print(type(price))
 print(type(information))
 print(type(check))
+
+
